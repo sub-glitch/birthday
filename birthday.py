@@ -8,7 +8,7 @@ from termcolor import colored
 
 Text = "Happy Birthday"
 
-Name = "Gbemiga"
+Name = ""
 
 
 reverseText = Name[::-1]
